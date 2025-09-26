@@ -2,8 +2,8 @@ title: Nora's Repo
 description: "CSP 2025 repo!"
 owner_name: Nora Ahadian
 github_username: NoraTheTurtle
-github_repo: "nora_25" 
-baseurl: "/nora_25"
+github_repo: "noraCSA" 
+baseurl: "/noraCSA"
 future: true
 remote_theme: jekyll/minima
 minima:

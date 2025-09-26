@@ -1,26 +1,16 @@
 # CSP course meta data
 Unit1:
-  title: sprint 1
-  description:  Install Tools and Create Website
+  title: TRI 1
+  description:
   start: 0
-  end: 3
-Unit2:
-  title: sprint 2
-  description: student Teaching
-  start: 4
-  end: 6
-Unit3:
-  title: sprint 3  
-  description: Social media Page Project
-  start: 7
   end: 12
-Unit4:
-  title: (tri2) sprint 4
-  description: N/A
+Unit2:
+  title: TRI 2
+  description: 
   start: 13
-  end: 23
-Unit5:
-  title: (tri3) Data Structures
-  description: Panda and Machine learning unit
-  start: 24
+  end: 24
+Unit3:
+  title: TRI 3
+  description: 
+  start: 25
   end: 36
