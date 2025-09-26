@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 comments: true
 ---
-### My name is Nora Ahadian, I am a softmore taking CSP this year
+### My name is Nora Ahadian, I am a Junior in CSA
 
 Here are some fun facts about me!
 
